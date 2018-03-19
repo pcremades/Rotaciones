@@ -18,11 +18,6 @@ Este equipo está diseñado para realizar experimentos de rotaciones de cuerpos 
 
 Cortar una placa rectangular de MDF de 30cm por 20cm que servirá de base para el equipo. Practicar un orificio de 10mm de diámetro como indica la figura 1.
 
-<p align="center"> 
-  <img src="https://github.com/pcremades/Rotaciones/blob/master/Documentaci%C3%B3n/figs/fig1.png">
-  <em>Fig 1. Esquema vista superior de la base del sistema de rotaciones.</em>
-</p>
-
 ![Fig 1](https://github.com/pcremades/Rotaciones/blob/master/Documentaci%C3%B3n/figs/fig1.png)
 *Fig 1. Esquema vista superior de la base del sistema de rotaciones.*
 
