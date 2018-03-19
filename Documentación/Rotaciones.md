@@ -23,6 +23,9 @@ Cortar una placa rectangular de MDF de 30cm por 20cm que servirá de base para e
   <em>Fig 1. Esquema vista superior de la base del sistema de rotaciones.</em>
 </p>
 
+![](https://github.com/pcremades/Rotaciones/blob/master/Documentaci%C3%B3n/figs/fig1.png)
+*Fig 1. Esquema vista superior de la base del sistema de rotaciones.*
+
 En el extremo opuesto al que se hizo el orificio, fijar la roldana ligeramente descentrada (6cm – 8cm).
 
 Colocar el tornillo con la tuerca y las arandelas necesarias en el orificio. Colocar el rodamiento axial en el tornillo. Colocar el sistema de poleas en el eje (ver sistema de poleas).
