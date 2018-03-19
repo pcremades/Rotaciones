@@ -18,7 +18,7 @@ Este equipo está diseñado para realizar experimentos de rotaciones de cuerpos 
 
 Cortar una placa rectangular de MDF de 30cm por 20cm que servirá de base para el equipo. Practicar un orificio de 10mm de diámetro como indica la figura 1.
 
-[Esquema vista superior de la base del sistema de rotaciones.](./figs/fig1.png)
+[Esquema vista superior de la base del sistema de rotaciones.](https://github.com/pcremades/Rotaciones/blob/master/Documentaci%C3%B3n/figs/fig1.png)
 
 En el extremo opuesto al que se hizo el orificio, fijar la roldana ligeramente descentrada (6cm – 8cm).
 
@@ -28,7 +28,7 @@ Colocar el tornillo con la tuerca y las arandelas necesarias en el orificio. Col
 
 En el repositorio podrá encontrar los archivos necesarios para imprimir en 3D el sistema de poleas. El mismo consiste en 2 partes que deben adherirse mediante cemento de contacto u otro pegamento adecuado para ABS. Antes, deberá adherir una de las coronas del rodamiento axial (la de mayor diámetro interno) al soporte y luego pegar las poleas al mismo. En la figura 2 puede verse el sistema de poleas armado y el rodamiento axial montado sobre el eje (tornillo de 10mm).
 
-[Foto del sistema de rotaciones completo.](./figs/fig2.png)
+[Foto del sistema de rotaciones completo.](https://github.com/pcremades/Rotaciones/blob/master/Documentaci%C3%B3n/figs/fig2.png)
 
 Por la parte inferior del sistema de poleas, debe pegar la zebra para el sistema de adquisición de datos. En el repositorio podrá encontrar el archivo para imprimir la zebra.
 
